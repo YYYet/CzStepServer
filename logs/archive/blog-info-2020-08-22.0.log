@@ -1,0 +1,308 @@
+2020-08-22 14:36:24.489 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 5992 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 14:36:24.492 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 14:36:24.536 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 14:36:24.536 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 14:36:25.297 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 14:36:25.304 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:36:25.304 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 14:36:25.304 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 14:36:25.380 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 14:36:25.380 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 843 ms
+2020-08-22 14:36:26.608 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 14:36:26.781 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 14:36:26.810 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 14:36:26.826 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:36:26.844 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 14:36:26.857 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.622 seconds (JVM running for 3.908)
+2020-08-22 14:36:44.567 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 14:36:44.568 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 14:36:44.573 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 14:36:44.651 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 14:36:44.738 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 14:39:36.559 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 7492 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 14:39:36.561 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 14:39:36.603 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 14:39:36.603 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 14:39:37.385 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 14:39:37.391 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:39:37.392 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 14:39:37.392 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 14:39:37.466 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 14:39:37.466 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 863 ms
+2020-08-22 14:39:38.591 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 14:39:38.739 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 14:39:38.771 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 14:39:38.785 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:39:38.801 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 14:39:38.813 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.543 seconds (JVM running for 3.756)
+2020-08-22 14:39:49.081 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 14:39:49.082 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 14:39:49.086 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 14:39:49.163 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 14:39:49.249 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 14:42:28.930 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 12812 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 14:42:28.933 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 14:42:28.978 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 14:42:28.978 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 14:42:29.743 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 14:42:29.748 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:42:29.749 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 14:42:29.749 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 14:42:29.822 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 14:42:29.822 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 843 ms
+2020-08-22 14:42:30.967 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 14:42:31.127 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 14:42:31.152 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 14:42:31.165 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 14:42:31.182 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 14:42:31.195 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.539 seconds (JVM running for 3.806)
+2020-08-22 14:42:40.019 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 14:42:40.020 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 14:42:40.024 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 14:42:40.103 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 14:42:40.187 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 14:42:40.685 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:239 -登录结果的响应: {"code":407,"msg":"密码错误"}
+2020-08-22 14:42:40.688 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的Msg{"code":407,"msg":"密码错误"}
+2020-08-22 14:42:40.688 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.controller.ViewController.updateResult:56 -控制器返回的msg{"code":407,"msg":"密码错误"}
+2020-08-22 14:44:18.635 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.shutdown:218 -Shutting down ExecutorService 'taskScheduler'
+2020-08-22 14:44:18.636 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 14:44:18.636 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-08-22 14:44:18.642 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-08-22 16:07:32.583 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 1472 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:07:32.586 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:07:32.628 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:07:32.628 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:07:33.427 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:07:33.433 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:07:33.434 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:07:33.434 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:07:33.507 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:07:33.508 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 879 ms
+2020-08-22 16:07:34.704 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:07:34.863 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:07:34.890 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:07:34.904 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:07:34.937 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:07:34.956 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.659 seconds (JVM running for 3.873)
+2020-08-22 16:07:42.709 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 1480 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:07:42.712 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:07:42.755 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:07:42.755 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:07:43.515 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:07:43.521 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:07:43.521 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:07:43.521 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:07:43.594 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:07:43.595 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 839 ms
+2020-08-22 16:07:44.749 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:07:44.904 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:07:44.931 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:07:44.945 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:07:44.963 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:07:44.975 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.542 seconds (JVM running for 3.803)
+2020-08-22 16:07:48.606 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:07:48.607 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:07:48.612 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 5 ms
+2020-08-22 16:08:02.272 INFO  [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:08:23.133 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 16084 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:08:23.136 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:08:23.174 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:08:23.175 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:08:23.908 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:08:23.914 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:08:23.914 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:08:23.914 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:08:23.986 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:08:23.987 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 812 ms
+2020-08-22 16:08:25.106 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:08:25.263 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:08:25.289 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:08:25.303 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:08:25.327 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:08:25.339 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.497 seconds (JVM running for 3.708)
+2020-08-22 16:08:29.041 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:08:29.042 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:08:29.046 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:08:29.121 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:08:29.209 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:09:33.677 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 6768 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:09:33.681 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:09:33.726 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:09:33.727 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:09:34.478 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:09:34.485 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:09:34.485 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:09:34.485 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:09:34.562 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:09:34.563 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 836 ms
+2020-08-22 16:09:35.776 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:09:35.929 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:09:35.954 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:09:35.967 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:09:35.984 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:09:35.995 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.593 seconds (JVM running for 3.826)
+2020-08-22 16:09:40.649 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:09:40.649 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:09:40.653 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 3 ms
+2020-08-22 16:09:40.732 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:09:40.822 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:12:56.619 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 15748 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:12:56.622 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:12:56.666 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:12:56.666 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:12:57.443 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:12:57.450 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:12:57.451 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:12:57.451 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:12:57.526 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:12:57.526 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 860 ms
+2020-08-22 16:12:58.680 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:12:58.825 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:12:58.851 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:12:58.865 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:12:58.881 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:12:58.893 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.563 seconds (JVM running for 3.85)
+2020-08-22 16:13:08.686 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:13:08.687 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:13:08.691 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:13:08.777 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:13:08.865 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:13:49.017 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.shutdown:218 -Shutting down ExecutorService 'taskScheduler'
+2020-08-22 16:13:49.018 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:13:49.018 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-08-22 16:13:49.026 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-08-22 16:17:47.969 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 6348 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:17:47.972 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:17:48.017 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:17:48.017 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:17:48.775 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:17:48.781 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:17:48.781 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:17:48.781 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:17:48.858 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:17:48.858 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 841 ms
+2020-08-22 16:17:50.073 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:17:50.223 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:17:50.250 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:17:50.264 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:17:50.281 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:17:50.294 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.627 seconds (JVM running for 3.944)
+2020-08-22 16:18:48.576 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:18:48.577 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:18:48.581 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:18:48.661 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:18:48.749 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:18:58.405 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 3868 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:18:58.408 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:18:58.450 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:18:58.450 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:18:59.213 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:18:59.219 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:18:59.219 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:18:59.220 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:18:59.294 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:18:59.294 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 844 ms
+2020-08-22 16:19:00.449 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:19:00.596 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:19:00.620 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:19:00.634 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:19:00.650 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:19:00.662 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.537 seconds (JVM running for 3.853)
+2020-08-22 16:19:07.862 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:19:07.863 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:19:07.867 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:19:07.945 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:19:08.033 INFO  [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:19:08.550 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:239 -登录结果的响应: {"code":407,"msg":"密码错误"}
+2020-08-22 16:19:08.553 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的Msg{"code":407,"msg":"密码错误"}
+2020-08-22 16:19:08.553 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.controller.ViewController.updateResult:57 -控制器返回的msg{"code":407,"msg":"密码错误"}
+2020-08-22 16:20:47.892 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 13580 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:20:47.895 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:20:47.939 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:20:47.939 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:20:48.755 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:20:48.762 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:20:48.762 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:20:48.763 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:20:48.845 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:20:48.846 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 907 ms
+2020-08-22 16:20:50.251 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:20:50.437 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:20:50.464 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:20:50.480 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:20:50.499 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:20:50.512 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.917 seconds (JVM running for 4.237)
+2020-08-22 16:20:52.778 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:20:52.779 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:20:52.783 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:22:05.372 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 15456 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:22:05.375 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:22:05.422 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-22 16:22:05.422 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-22 16:22:06.188 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:22:06.194 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:22:06.194 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:22:06.194 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:22:06.269 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:22:06.269 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 847 ms
+2020-08-22 16:22:07.433 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:22:07.583 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:22:07.608 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:22:07.623 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:22:07.643 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:22:07.657 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.587 seconds (JVM running for 3.883)
+2020-08-22 16:22:11.667 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:22:11.668 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:22:11.672 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-08-22 16:22:26.508 INFO  [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-22 16:22:26.596 INFO  [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-22 16:22:27.124 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:239 -登录结果的响应: {"code":200,"msg":"成功","data":{"exist":false,"hasMobile":false,"userId":"26993431","accessToken":"D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59D9570FDDA78A75FBDF3C6E9C8E1D724BB84D680707D0881CC75EF7760B82CD6D58FA0A46011ACA6016D250C10EC3C87E921D6F013B563987AF01A43785EA391F5.A003ADDB1381937B98D5CD48BFC7919C2C3F69DCD9DDC94E767BE2C6F589AD31","expireAt":1600676547816,"userType":99,"needInfo":false}}
+2020-08-22 16:22:27.127 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的MsgaccessToken=D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59D9570FDDA78A75FBDF3C6E9C8E1D724BB84D680707D0881CC75EF7760B82CD6D58FA0A46011ACA6016D250C10EC3C87E921D6F013B563987AF01A43785EA391F5.A003ADDB1381937B98D5CD48BFC7919C2C3F69DCD9DDC94E767BE2C6F589AD31; Domain=.lifesense.com; Expires=Mon, 21-Sep-2020 08:22:27 GMT; Path=/
+2020-08-22 16:22:27.128 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.controller.ViewController.updateResult:57 -控制器返回的msgaccessToken=D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59D9570FDDA78A75FBDF3C6E9C8E1D724BB84D680707D0881CC75EF7760B82CD6D58FA0A46011ACA6016D250C10EC3C87E921D6F013B563987AF01A43785EA391F5.A003ADDB1381937B98D5CD48BFC7919C2C3F69DCD9DDC94E767BE2C6F589AD31; Domain=.lifesense.com; Expires=Mon, 21-Sep-2020 08:22:27 GMT; Path=/
+2020-08-22 16:22:27.133 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:144 -这是修改的测试时间: 2020-08-22 16:22:27
+2020-08-22 16:22:27.133 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:145 -这是修改的测试时间戳: 1598084547133
+2020-08-22 16:22:27.134 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:146 -这是修改的距离: 2220
+2020-08-22 16:22:27.402 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:184 -提交更改步数后的响应 onResponse: {"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"08be237515884a4bbca0638bc8780973","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-22 00:00:00","step":"9950,9950,0,0,0,0,0,0,0,0,0,0,4550,5650,0,0,6660,0,0,0,0,0,0,0","calories":"2487.00,2487.00,0,0,0,0,0,0,0,0,0,0,1137.00,1412.00,0,0,1665.00,0,0,0,0,0,0,0","distance":"3316.00,3316.00,0,0,0,0,0,0,0,0,0,0,1516.00,1883.00,0,0,2220.00,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-22 00:17:42","active":0,"updated":1598084548077}]}}
+2020-08-22 16:22:27.404 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的Msg{"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"08be237515884a4bbca0638bc8780973","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-22 00:00:00","step":"9950,9950,0,0,0,0,0,0,0,0,0,0,4550,5650,0,0,6660,0,0,0,0,0,0,0","calories":"2487.00,2487.00,0,0,0,0,0,0,0,0,0,0,1137.00,1412.00,0,0,1665.00,0,0,0,0,0,0,0","distance":"3316.00,3316.00,0,0,0,0,0,0,0,0,0,0,1516.00,1883.00,0,0,2220.00,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-22 00:17:42","active":0,"updated":1598084548077}]}}
+2020-08-22 16:22:27.404 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.controller.ViewController.updateResult:57 -控制器返回的msg{"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"08be237515884a4bbca0638bc8780973","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-22 00:00:00","step":"9950,9950,0,0,0,0,0,0,0,0,0,0,4550,5650,0,0,6660,0,0,0,0,0,0,0","calories":"2487.00,2487.00,0,0,0,0,0,0,0,0,0,0,1137.00,1412.00,0,0,1665.00,0,0,0,0,0,0,0","distance":"3316.00,3316.00,0,0,0,0,0,0,0,0,0,0,1516.00,1883.00,0,0,2220.00,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-22 00:17:42","active":0,"updated":1598084548077}]}}
+2020-08-22 16:23:38.103 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.shutdown:218 -Shutting down ExecutorService 'taskScheduler'
+2020-08-22 16:23:38.105 INFO  [Thread-5]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:23:38.105 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-08-22 16:23:38.114 INFO  [Thread-5]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-08-22 16:23:38.218 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 15456 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:23:38.219 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:23:38.500 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:23:38.501 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:23:38.501 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:23:38.501 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:23:38.534 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:23:38.534 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 312 ms
+2020-08-22 16:23:39.130 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:23:39.197 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:23:39.215 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:23:39.228 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:23:39.231 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:23:39.236 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 1.073 seconds (JVM running for 95.462)
+2020-08-22 16:23:39.237 INFO  [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-08-22 16:23:49.217 INFO  [Thread-8]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.shutdown:218 -Shutting down ExecutorService 'taskScheduler'
+2020-08-22 16:23:49.219 INFO  [Thread-8]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:23:49.293 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 15456 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-22 16:23:49.293 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-22 16:23:49.471 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-22 16:23:49.471 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:23:49.472 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-22 16:23:49.472 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-22 16:23:49.502 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-22 16:23:49.502 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 206 ms
+2020-08-22 16:23:50.046 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 16:23:50.092 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-22 16:23:50.105 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-22 16:23:50.112 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-22 16:23:50.114 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-22 16:23:50.118 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 0.863 seconds (JVM running for 106.344)
+2020-08-22 16:23:50.119 INFO  [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-08-22 16:31:08.000 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-22 16:31:08.000 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-08-22 16:31:08.002 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 1 ms
+2020-08-22 16:31:16.103 INFO  [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-08-22 16:31:33.239 INFO  [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...

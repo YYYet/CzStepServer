@@ -1,0 +1,289 @@
+2020-08-23 12:13:43.195 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 9844 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:13:43.211 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:13:43.255 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:13:43.256 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:13:44.595 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:13:44.602 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:13:44.603 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:13:44.603 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:13:44.681 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:13:44.681 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 1424 ms
+2020-08-23 12:13:46.224 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:13:46.308 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:13:46.428 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:13:46.452 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:13:46.465 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:13:46.482 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:13:46.494 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 3.626 seconds (JVM running for 6.911)
+2020-08-23 12:15:44.366 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 2928 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:15:44.369 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:15:44.411 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:15:44.411 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:15:45.141 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:15:45.147 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:15:45.147 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:15:45.147 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:15:45.221 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:15:45.221 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 810 ms
+2020-08-23 12:15:46.352 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:15:46.432 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:15:46.495 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:15:46.519 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:15:46.533 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:15:46.549 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:15:46.561 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.483 seconds (JVM running for 3.662)
+2020-08-23 12:16:08.530 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 12528 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:16:08.532 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:16:08.571 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:16:08.571 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:16:09.346 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:16:09.352 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:16:09.352 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:16:09.352 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:16:09.425 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:16:09.425 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 854 ms
+2020-08-23 12:16:10.559 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:16:10.646 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:16:10.709 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:16:10.733 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:16:10.747 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:16:10.762 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:16:10.774 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.53 seconds (JVM running for 3.815)
+2020-08-23 12:17:00.044 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-23 12:17:01.223 ERROR [scheduling-1]com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException:593 -HikariPool-1 - Exception during pool initialization.
+java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.prepareStatement(MybatisSimpleExecutor.java:91)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.doQuery(MybatisSimpleExecutor.java:66)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:163)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:90)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy61.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:223)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:177)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:78)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:96)
+	at com.sun.proxy.$Proxy65.selectList(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy66.selectList(Unknown Source)
+	at com.chengzzz.stepservice.schedu.UpdateSchedu.schedu(UpdateSchedu.java:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-08-23 12:17:01.257 ERROR [scheduling-1]o.s.scheduling.support.TaskUtils$LoggingErrorHandler.handleError:95 -Unexpected error occurred in scheduled task
+org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+### The error may exist in com/chengzzz/stepservice/dao/UpstepsDao.java (best guess)
+### The error may involve com.chengzzz.stepservice.dao.UpstepsDao.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:92)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:440)
+	at com.sun.proxy.$Proxy61.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:223)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:177)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:78)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:96)
+	at com.sun.proxy.$Proxy65.selectList(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy66.selectList(Unknown Source)
+	at com.chengzzz.stepservice.schedu.UpdateSchedu.schedu(UpdateSchedu.java:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+### The error may exist in com/chengzzz/stepservice/dao/UpstepsDao.java (best guess)
+### The error may involve com.chengzzz.stepservice.dao.UpstepsDao.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:149)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	... 31 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.prepareStatement(MybatisSimpleExecutor.java:91)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.doQuery(MybatisSimpleExecutor.java:66)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:163)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:90)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	... 37 common frames omitted
+Caused by: java.sql.SQLException: Access denied for user 'mystep'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	... 47 common frames omitted
+2020-08-23 12:17:36.035 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 3428 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:17:36.037 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:17:36.072 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:17:36.072 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:17:36.835 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:17:36.841 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:17:36.841 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:17:36.841 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:17:36.917 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:17:36.917 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 845 ms
+2020-08-23 12:17:38.495 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:17:38.578 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:17:38.647 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:17:38.673 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:17:38.688 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:17:38.705 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:17:38.718 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.917 seconds (JVM running for 4.137)
+2020-08-23 12:19:00.041 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-23 12:19:00.145 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-23 12:19:00.151 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (flag = ?) 
+2020-08-23 12:19:00.167 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==> Parameters: 1(Integer)
+2020-08-23 12:19:00.182 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -<==      Total: 0
+2020-08-23 12:21:26.207 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 3396 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:21:26.210 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:21:26.250 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:21:26.251 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:21:26.969 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:21:26.975 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:21:26.975 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:21:26.976 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:21:27.046 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:21:27.047 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 796 ms
+2020-08-23 12:21:28.172 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:21:28.255 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:21:28.328 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:21:28.353 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:21:28.367 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:21:28.384 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:21:28.396 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.453 seconds (JVM running for 3.654)
+2020-08-23 12:22:00.038 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-23 12:22:00.134 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-23 12:22:00.139 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (flag = ?) 
+2020-08-23 12:22:00.153 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==> Parameters: 1(Integer)
+2020-08-23 12:22:00.169 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -<==      Total: 0
+2020-08-23 12:22:38.063 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarting:55 -Starting StepserviceApplication on DESKTOP-9S7FNJU with PID 7164 (G:\stepservice\target\classes started by Yet in G:\stepservice)
+2020-08-23 12:22:38.066 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-08-23 12:22:38.110 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-23 12:22:38.111 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-23 12:22:38.852 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2020-08-23 12:22:38.858 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:22:38.859 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-08-23 12:22:38.859 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-23 12:22:38.934 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-08-23 12:22:38.935 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 824 ms
+2020-08-23 12:22:40.085 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-23 12:22:40.174 WARN  [restartedMain]o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists:106 -Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-08-23 12:22:40.244 INFO  [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskScheduler.initialize:181 -Initializing ExecutorService 'taskScheduler'
+2020-08-23 12:22:40.271 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:58 -LiveReload server is running on port 35729
+2020-08-23 12:22:40.285 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-08-23 12:22:40.301 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-23 12:22:40.313 INFO  [restartedMain]com.chengzzz.stepservice.StepserviceApplication.logStarted:61 -Started StepserviceApplication in 2.529 seconds (JVM running for 3.754)
+2020-08-23 12:23:00.038 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-08-23 12:23:00.135 INFO  [scheduling-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-08-23 12:23:00.140 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (flag = ?) 
+2020-08-23 12:23:00.154 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -==> Parameters: 1(Integer)
+2020-08-23 12:23:00.169 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectList.debug:143 -<==      Total: 1
+2020-08-23 12:23:00.181 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-23 12:23:00.182 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-23 12:23:00.183 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-23 12:23:00.184 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=? WHERE id=? 
+2020-08-23 12:23:00.185 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZMC123456(String), 1888(String), 1(Integer), 2(Integer)
+2020-08-23 12:23:00.186 DEBUG [scheduling-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1
+2020-08-23 12:23:00.720 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:234 -登录响应的cookie: accessToken=D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59DA1EED76ABF42E4A68B2C5AF8300778C1AEBE4FD717650D09F6A12F1CE78D6FDAEC61A23D25C1CEEC15F495A68A6B7725BC7309D6AA895BD8B6B93A54EF703F3E.8AC66C30EE994B368C49EA79F8A398372F3500E8EE4EEAF5353E163B9F86744F; Domain=.lifesense.com; Expires=Tue, 22-Sep-2020 04:23:01 GMT; Path=/
+2020-08-23 12:23:00.721 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:239 -登录结果的响应: {"code":200,"msg":"成功","data":{"exist":false,"hasMobile":false,"userId":"26993431","accessToken":"D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59DA1EED76ABF42E4A68B2C5AF8300778C1AEBE4FD717650D09F6A12F1CE78D6FDAEC61A23D25C1CEEC15F495A68A6B7725BC7309D6AA895BD8B6B93A54EF703F3E.8AC66C30EE994B368C49EA79F8A398372F3500E8EE4EEAF5353E163B9F86744F","expireAt":1600748581759,"userType":99,"needInfo":false}}
+2020-08-23 12:23:00.724 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的MsgaccessToken=D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59DA1EED76ABF42E4A68B2C5AF8300778C1AEBE4FD717650D09F6A12F1CE78D6FDAEC61A23D25C1CEEC15F495A68A6B7725BC7309D6AA895BD8B6B93A54EF703F3E.8AC66C30EE994B368C49EA79F8A398372F3500E8EE4EEAF5353E163B9F86744F; Domain=.lifesense.com; Expires=Tue, 22-Sep-2020 04:23:01 GMT; Path=/
+2020-08-23 12:23:00.730 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.schedu.UpdateSchedu.updateResult:46 -用户:18267231101 步数:1888 返回：accessToken=D2A6AFB93531605DBE56DC2EEE74C4C920C12BEB70905E231679F9C8BAE8F59DA1EED76ABF42E4A68B2C5AF8300778C1AEBE4FD717650D09F6A12F1CE78D6FDAEC61A23D25C1CEEC15F495A68A6B7725BC7309D6AA895BD8B6B93A54EF703F3E.8AC66C30EE994B368C49EA79F8A398372F3500E8EE4EEAF5353E163B9F86744F; Domain=.lifesense.com; Expires=Tue, 22-Sep-2020 04:23:01 GMT; Path=/
+2020-08-23 12:23:00.731 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:118 -下面开始修改
+2020-08-23 12:23:00.735 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:144 -这是修改的测试时间: 2020-08-23 12:23:00
+2020-08-23 12:23:00.735 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:145 -这是修改的测试时间戳: 1598156580735
+2020-08-23 12:23:00.735 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:146 -这是修改的距离: 629
+2020-08-23 12:23:00.737 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.postAsynModifyStepsHttp:152 -这是修改的json请求体: {"list":[{"active":1,"calories":472,"dataSource":2,"deviceId":"M_NULL","distance":629,"isUpload":0,"measurementTime":"2020-08-23 12:23:00","priority":0,"step":1888,"type":2,"updated":1598156580735,"userId":26993431,"DataSource":2,"exerciseTime":0}]}
+2020-08-23 12:23:01.007 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.onResponse:184 -提交更改步数后的响应 onResponse: {"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"33e9bd46c95541c686745fa91cffdc57","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-23 00:00:00","step":"0,0,0,0,0,0,0,0,0,0,0,0,1888,0,0,0,0,0,0,0,0,0,0,0","calories":"0,0,0,0,0,0,0,0,0,0,0,0,472.00,0,0,0,0,0,0,0,0,0,0,0","distance":"0,0,0,0,0,0,0,0,0,0,0,0,629.00,0,0,0,0,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-23 12:23:02","active":0,"updated":1598156582041}]}}
+2020-08-23 12:23:01.009 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.service.impl.UpstepsServiceImpl.updateCallback:76 -Callback中的Msg{"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"33e9bd46c95541c686745fa91cffdc57","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-23 00:00:00","step":"0,0,0,0,0,0,0,0,0,0,0,0,1888,0,0,0,0,0,0,0,0,0,0,0","calories":"0,0,0,0,0,0,0,0,0,0,0,0,472.00,0,0,0,0,0,0,0,0,0,0,0","distance":"0,0,0,0,0,0,0,0,0,0,0,0,629.00,0,0,0,0,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-23 12:23:02","active":0,"updated":1598156582041}]}}
+2020-08-23 12:23:01.009 INFO  [OkHttp https://sports.lifesense.com/...]com.chengzzz.stepservice.schedu.UpdateSchedu.updateResult:46 -用户:18267231101 步数:1888 返回：{"code":200,"msg":"成功","data":{"pedometerRecordHourlyList":[{"id":"33e9bd46c95541c686745fa91cffdc57","userId":26993431,"deviceId":"M_NULL","measurementTime":"2020-08-23 00:00:00","step":"0,0,0,0,0,0,0,0,0,0,0,0,1888,0,0,0,0,0,0,0,0,0,0,0","calories":"0,0,0,0,0,0,0,0,0,0,0,0,472.00,0,0,0,0,0,0,0,0,0,0,0","distance":"0,0,0,0,0,0,0,0,0,0,0,0,629.00,0,0,0,0,0,0,0,0,0,0,0","dataSource":2,"created":"2020-08-23 12:23:02","active":0,"updated":1598156582041}]}}

@@ -1,0 +1,47 @@
+2020-08-22 14:36:44.744 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 14:36:44.759 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 14:36:44.772 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-22 14:36:44.777 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=?, msg=? WHERE id=? 
+2020-08-22 14:36:44.778 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZM123456(String), 4550(String), 1(Integer), (String), 1(Integer)
+2020-08-22 14:36:44.780 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1
+2020-08-22 14:39:49.254 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 14:39:49.268 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 14:39:49.281 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-22 14:39:49.286 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=?, msg=? WHERE id=? 
+2020-08-22 14:39:49.287 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZM123456(String), 4550(String), 1(Integer), (String), 1(Integer)
+2020-08-22 14:39:49.288 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1
+2020-08-22 14:42:40.193 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 14:42:40.208 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 14:42:40.221 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-22 14:42:40.225 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=? WHERE id=? 
+2020-08-22 14:42:40.226 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZM123456(String), 4550(String), 0(Integer), 1(Integer)
+2020-08-22 14:42:40.228 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1
+2020-08-22 16:08:29.214 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:08:29.229 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:08:29.244 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 0
+2020-08-22 16:09:40.827 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:09:40.842 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:09:40.857 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 0
+2020-08-22 16:09:44.963 DEBUG [http-nio-8080-exec-2]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:09:44.963 DEBUG [http-nio-8080-exec-2]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:09:44.964 DEBUG [http-nio-8080-exec-2]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 0
+2020-08-22 16:13:08.871 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:13:08.885 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:13:08.900 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 0
+2020-08-22 16:13:08.904 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.insert.debug:143 -==>  Preparing: INSERT INTO upsteps ( phone, password, steps, flag, msg ) VALUES ( ?, ?, ?, ?, ? ) 
+2020-08-22 16:13:08.905 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.insert.debug:143 -==> Parameters: 18267231101(String), ZM123456(String), 9550(String), 1(Integer), (String)
+2020-08-22 16:13:08.907 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.insert.debug:143 -<==    Updates: 1
+2020-08-22 16:18:48.754 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:18:48.769 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:19:08.038 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:19:08.053 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:19:08.068 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-22 16:19:08.073 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=? WHERE id=? 
+2020-08-22 16:19:08.074 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZM123456(String), 9550(String), 0(Integer), 2(Integer)
+2020-08-22 16:19:08.075 DEBUG [http-nio-8080-exec-1]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1
+2020-08-22 16:22:26.601 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==>  Preparing: SELECT id,phone,password,steps,flag,msg FROM upsteps WHERE (phone = ?) 
+2020-08-22 16:22:26.616 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -==> Parameters: 18267231101(String)
+2020-08-22 16:22:26.632 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.selectOne.debug:143 -<==      Total: 1
+2020-08-22 16:22:26.637 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==>  Preparing: UPDATE upsteps SET phone=?, password=?, steps=?, flag=? WHERE id=? 
+2020-08-22 16:22:26.637 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -==> Parameters: 18267231101(String), ZMC123456(String), 6660(String), 0(Integer), 2(Integer)
+2020-08-22 16:22:26.639 DEBUG [http-nio-8080-exec-4]com.chengzzz.stepservice.dao.UpstepsDao.updateById.debug:143 -<==    Updates: 1

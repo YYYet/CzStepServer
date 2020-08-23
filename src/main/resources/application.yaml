@@ -1,0 +1,19 @@
+#服务器端口
+server:
+  port: 8080
+  tomcat:
+    connection-timeout: 10000
+
+
+spring:
+  datasource:
+    password: root
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mysteps?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    druid:
+      min-idle: 10
+      max-active: 50
+      max-idle: 10
+      initial-size: 1
+      max-wait: 5000
