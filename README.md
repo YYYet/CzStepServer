@@ -17,7 +17,7 @@ flag             是否开启自动刷步   0为不自动刷步  1为自动刷�
 get请求 
 
 ```http
-  http://你的域名(或者公网ip:8080)/Service/updateStep?phone=18888888888&password=CZ123456&steps=9990&flag=0
+  /Service/updateStep?phone=18888888888&password=CZ123456&steps=9990&flag=0
 ```
 
 响应 
@@ -53,7 +53,7 @@ get请求
 get请求
 
 ```http
- http://你的域名(或者公网ip:8080)/Service/updateStep?phone=18888888888&password=CZ123456&steps=9990&flag=1
+ /Service/updateStep?phone=18888888888&password=CZ123456&steps=9990&flag=1
 ```
 
 响应
