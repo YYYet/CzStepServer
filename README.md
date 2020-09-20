@@ -1,5 +1,8 @@
 # CzStepServer
 乐心健康自动刷步手动刷步Spring boot 服务端
+
+数据表下载 https://yyyet.github.io/2020/08/22/%E4%B9%90%E5%BF%83%E6%AD%A5%E6%95%B0%E5%8A%A9%E6%89%8B%E6%9C%8D%E5%8A%A1%E7%AB%AF/
+
 参数说明：
 
 phone        手机号
